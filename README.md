@@ -30,8 +30,12 @@ Clone o repositório
 
 **3.** Abra o arquivo index.html no navegador
 - Clique duas vezes no arquivo index.html
+  
 **ou**
+
 - Clique com o botão direito → “Abrir com” → escolha seu navegador (Chrome, Firefox, Edge etc.)
+
+  
 
 <img width="859" height="698" alt="Todo-List tela" src="https://github.com/user-attachments/assets/1ba1f178-d4be-4d9d-9e61-db6719353fed" />
 
