@@ -35,7 +35,7 @@ Clone o repositório
 
 <br>
 
-<img width="859" height="698" alt="Todo-List tela" src="https://github.com/user-attachments/assets/1ba1f178-d4be-4d9d-9e61-db6719353fed" />
+<img width="1662" height="906" alt="Todo-List tela" src="https://github.com/user-attachments/assets/a7293999-eec0-4608-9dd2-114476a593c3" />
 
 ## Demonstração
 Voce pode vizualiar a aplicação em [ToDo-List ](https://amanda-maria.github.io/todo-list/).
