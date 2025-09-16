@@ -30,7 +30,7 @@ Clone o repositório
 
 **3.** Abra o arquivo index.html no navegador
 - Clique duas vezes no arquivo index.html
-**ou**
+<br>**ou**
 - Clique com o botão direito → “Abrir com” → escolha seu navegador (Chrome, Firefox, Edge etc.)
 
 <br>
