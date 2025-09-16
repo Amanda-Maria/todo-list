@@ -8,7 +8,7 @@ Um aplicativo simples de lista de tarefas, criado como parte de estudos em JavaS
 - Editar tarefas existentes.
 - Remover tarefas.
 
-- ## Stack utilizada
+## Stack utilizada
 
 - HTML & CSS
 - JavaScript
