@@ -33,7 +33,7 @@ Clone o repositório
 **ou**
 - Clique com o botão direito → “Abrir com” → escolha seu navegador (Chrome, Firefox, Edge etc.)
 
-- <img width="1916" height="909" alt="Todo-List tela" src="https://github.com/user-attachments/assets/5a934a51-b588-44cf-aabf-51ffd3e4dcbf" />
+<img width="1916" height="909" alt="Todo-List tela" src="https://github.com/user-attachments/assets/5a934a51-b588-44cf-aabf-51ffd3e4dcbf" />
 
 ## Demonstração
-Voce pode vizualiar a aplicação em ...  .
+Voce pode vizualiar a aplicação em [ToDo-List ](https://amanda-maria.github.io/todo-list/).
